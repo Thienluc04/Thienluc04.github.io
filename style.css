@@ -796,6 +796,7 @@ html {
     font-weight: 400;
     text-align: center;
     line-height: 1.7;
+    margin: 0 500px;
 }
 
 .container__slider-user {
