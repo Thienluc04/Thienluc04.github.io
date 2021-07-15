@@ -795,7 +795,8 @@ html {
     font-weight: 400;
     text-align: center;
     line-height: 1.7;
-    padding: 30px 400px;
+    padding: 30px 0;
+    width: 200px;
 }
 
 .container__slider-user {
