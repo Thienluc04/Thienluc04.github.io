@@ -137,6 +137,7 @@
 
     .container__slider-desc {
         padding: 50px;
+        width: auto;
     }
 
     .container__trending-desc {
