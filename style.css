@@ -791,12 +791,11 @@ html {
 }
 
 .container__slider-desc {
-    padding: 30px;
     font-size: 1.8rem;
     font-weight: 400;
     text-align: center;
     line-height: 1.7;
-    margin: 0 500px;
+    padding: 30px 400px;
 }
 
 .container__slider-user {
