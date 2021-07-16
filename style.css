@@ -979,7 +979,8 @@ html {
     color: #9c9c9c;
     line-height: 1.7;
     padding-bottom: 30px;
-    margin: 0 auto;
+    margin-left: 280px;
+    margin-right: 280px;
 }
 
 .container__visit-img {
